@@ -1,0 +1,12 @@
+transformers
+accelerate
+sentencepiece
+torch
+torchvision
+Pillow
+requests
+pandas
+matplotlib
+seaborn
+tqdm
+datasets
